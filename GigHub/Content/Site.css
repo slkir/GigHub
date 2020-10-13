@@ -23,6 +23,12 @@ textarea {
     max-width: 280px;
 }
 
+/* ASP NET styles overrides*/
+span.field-validation-error {
+    color: red;
+    font-weight: bold;
+}
+
 /* Bootwrap Overrides */
 .navbar-inverse {
     background-color: #ff4342;
